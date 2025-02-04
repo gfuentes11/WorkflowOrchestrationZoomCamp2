@@ -1,0 +1,1 @@
+SELECT * FROM yellow_tripdata;
